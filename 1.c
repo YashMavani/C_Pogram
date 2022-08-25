@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
 {
-printf("hello  hdsbdvsvdhevdhvb");
+printf("hello yash ");
+printf("hello dhruv ");
 }
